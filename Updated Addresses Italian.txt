@@ -1,0 +1,800 @@
+Bibbona 
+Montepulciano 
+Montaione 
+Figline e Incisa Valdarno 
+Santa Luce 
+Cerreto Guidi 
+Montalcino 
+Manciano 
+San Gimignano 
+San Gimignano 
+San Quirico d'Orcia 
+Gambassi Terme 
+Montepulciano 
+Barberino Tavarnelle 
+Terricciola 
+Seggiano 
+Montalcino 
+Vicchio di Mugello 
+Figline e Incisa Valdarno 
+Impruneta 
+Castagneto Carducci 
+Signa 
+Vinci 
+Bolgheri 
+Massa 
+Chiusi 
+Siena 
+Montalcino 
+Castelnuovo dell'Abate 
+Montepulciano 
+Ponsacco 
+Cerreto Guidi 
+Pieve Santo Stefano 
+Orbetello Scalo 
+Castellina in Chianti 
+Gavorrano 
+Lamporecchio 
+Panzano 
+Scansano 
+Montalcino 
+San Casciano Val di Pesa 
+San Casciano Val di Pesa 
+Castagneto Carducci 
+Castagneto Carducci 
+Pienza 
+Antella 
+Casole d'Elsa 
+Bucine 
+Capalbio 
+Gaiole in Chianti 
+Vaglia 
+Manciano 
+Greve in Chianti 
+Cinigiano 
+Bucine 
+Montepulciano 
+Montalcino 
+Bucine 
+Orbetello Scalo 
+Gaiole in Chianti 
+Buonconvento 
+Scansano 
+Suvereto 
+Grosseto 
+Massa 
+Montalcino 
+Scansano 
+Montalcino 
+Montalcino 
+Montepulciano 
+Suvereto 
+Montepulciano 
+Palaia 
+Suvereto 
+Castelfranco Piandiscò 
+Montevarchi 
+Cinigiano 
+Manciano 
+Montespertoli 
+San Casciano in Val di Pesa 
+Gavorrano 
+Greve in Chianti 
+Barberino Val d'Elsa 
+Capoliveri 
+Montemurlo 
+Cetona 
+La California - Bibbona 
+Castagento Carducci 
+Montalcino 
+Massa Marittima 
+Loro Ciuffenna 
+Ponteginori 
+Montalcino 
+Montevarchi 
+Monteriggioni 
+Calci 
+Magliano in Toscana 
+Trequanda 
+Montecatini Val di Cecina 
+San Casciano in Val di Pesa 
+Crespina Lorenzana 
+San Miniato 
+Montespertoli 
+Alberese 
+Montalcino 
+Giuncarico 
+Fonteblanda 
+Montepulciano 
+Certaldo 
+Montalcino 
+Vagliagli 
+Volterra 
+Manciano 
+Certaldo 
+Suvereto 
+Riotorto 
+Tavarnelle Val di Pesa 
+Grassina 
+Magliano in Toscana 
+Manciano 
+Castagneto Carducci 
+Montalcino 
+Scansano 
+Castiglion Fiorentino 
+Capalbio 
+Seano di Carmignano 
+Casale Marittimo 
+Castagneto Carducci 
+Castagneto Carducci 
+Civitella Marittima 
+Seggiano 
+Greve in Chianti 
+Greve in Chianti 
+Sassofortino 
+Cerreto Guidi 
+Montalcino 
+Montalcino 
+Montescudaio 
+Civitella Paganico 
+Bolgheri 
+Dicomano 
+Civitella in Val di Chiana 
+San Gimignano 
+Castagneto Carducci 
+Montalcino 
+Montalcino 
+Montespetoli 
+Radda in Chianti 
+Montalcino 
+Castellina in Chianti 
+Lastra a Signa 
+Montelupo Fiorentino 
+San Gimignano 
+Volterra 
+Gavorrano 
+Borgo a Mozzano 
+Castelnuovo Berardenga 
+Cinigiano 
+Capalbio 
+Monteriggioni 
+Castiglione d'Orcia 
+Greve in Chianti 
+Magliano in Toscana 
+Castiglione d'Orcia 
+Trequanda 
+Mercatale Val di Pesa 
+San Casciano in Val di Pesa 
+Scandicci 
+Grosseto 
+Castelnuovo Berardenga 
+Cenaia 
+San Gimignano 
+Fosdinovo 
+Castelnuovo Berardenga 
+Lucca 
+Montalcino 
+Castelnuovo Berardenga 
+San Casciano in Val di Pesa 
+Porto Azzurro - Isola d?Elba 
+Marciana Marina - Isola d?Elba 
+Castelnuovo Berardenga 
+Vinci 
+Bolgheri di Castagneto Carducci 
+Donoratico di Castagneto Carducci 
+Sovicille 
+Manciano 
+Montalcino 
+Cetona 
+Pitigliano 
+Montalcino 
+Montalcino 
+Montalcino 
+Montalcino 
+Massa Marittima 
+Grosseto 
+Arezzo 
+Reggello 
+Montescudaio 
+Castagneto Carducci 
+Seggiano 
+Montepulciano 
+Gambassi Terme 
+Colle Val d?Elsa 
+Gaiole in Chianti 
+Montalcino 
+Montalcino 
+Castellina In Chianti 
+Empoli 
+Lucolena 
+Radda in Chianti 
+Barberino Val d?Elsa 
+Montalcino 
+Montalcino 
+Gambassi Terme 
+Montalcino 
+Montecatini Val di Cecina 
+Empoli 
+Montalcino 
+Torrenieri 
+Gaiole in Chianti 
+Piombino 
+Montespertoli 
+Sarteano 
+Civitella Marittima 
+Paganico 
+San Miniato 
+Castagneto Carducci 
+Montalcino 
+Barberino Val d'Elsa 
+Montescudaio 
+Montalcino 
+Terranuova Bracciolini 
+Poggibonsi 
+Montalcino 
+Acquaviva di Montepulciano 
+Capraia Isola 
+Palaia 
+Santa Brigida 
+Chiocchio 
+Montespertoli 
+Civitella in Val di Chiana 
+Montalcino 
+Cignano di Cortona 
+Cinigiano 
+Monte San Quirino 
+Radda in Chianti 
+Cortona 
+Magliano in Toscana 
+Cortona 
+Piombino 
+Cerreto Guidi 
+Fosdinovo 
+Sinalunga 
+San Polo in Chianti 
+Greve in Chianti 
+Gallicano 
+Magliano in Toscana 
+Manciano 
+Greve in Chianti 
+Montepulciano 
+Magliano in Toscana 
+Montalcino 
+Castagneto Carducci 
+Montiano 
+Scansano 
+Gavorrano 
+Località Tizzana - Quarrata 
+Suvereto 
+Castagneto Carducci 
+S.Casciano in val di Pesa 
+San Casciano dei Bagni 
+Bolgheri 
+Massa Marittima 
+Roccatederighi 
+Montalcino 
+Grosseto 
+Tavarnelle Val Di Pesa 
+San Piero a Sieve 
+Montalcino 
+Riparbella 
+Montalcino 
+Montalcino 
+San Giovanni d'Asso 
+
+Terranuova Bracciolini 
+Montalcino 
+Casole d'Elsa 
+Magliano in Toscana 
+Cortona 
+Radda in Chianti 
+Capalbio 
+Lucca 
+Castellina in Chianti 
+Castel del Piano 
+Scansano 
+San Gimignano 
+Gavorrano 
+Montepulciano 
+Casale Marittimo 
+Civitella in Val di Chiana 
+Monte Argentario 
+Montalcino 
+Riparbella 
+Saturnia 
+Montalcino 
+Montalcino 
+Massa Marittima 
+Terricciola 
+Montalcino 
+Radda in Chianti 
+Empoli 
+Montespertoli 
+Figline Valdarno 
+Montespertoli 
+Suvereto 
+Porcari 
+Cinigiano 
+Poggibonsi 
+Abbadia di Montepulciano 
+Rignano sull'Arno 
+Castellina in Chianti 
+Bolgheri 
+S. CASCIANO V.P. 50020 S. Casciano Val di Pesa 
+Bucine 
+Roccalbegna 
+Incisa in Val d'Arno 
+Gambassi Terme 
+Bibbona 
+Castellina in Chianti 
+Pitigliano 
+San Casciano In Val di Pesa 
+Castelnuovo Berardenga 
+Montalcino 
+Greve in Chianti 
+Panzano in Chianti 
+Greve in Chianti 
+Greve in Chianti 
+Radda in Chianti 
+Greve in Chianti 
+Greve in Chianti 
+S. Martino alla Palma 
+Montepulciano 
+Cinigiano 
+Terricciola 
+Montopoli in Val d?Arno 
+San Giovanni Valdarno 
+Grosseto 
+Gracciano di Montepulciano 
+Pelago 
+Sovicille 
+Castagneto Carducci 
+Suvereto 
+Montalcino 
+S. Vincenzo a Torri 
+Greve in Chianti 
+Castellina Marittima 
+San Gimignano 
+Terranuova Bracciolini 
+Montalcino 
+Ulignano 
+Tavarnelle Val di Pesa 
+Ponte del Giglio 
+Greve in Chianti 
+Radda in Chianti 
+Firenze 
+Montalcino 
+Castellina in Chianti 
+Pitigliano 
+Cavriglia 
+S. Giustino Valdarno 
+Montalcino 
+San Polo in Chianti 
+San Gimignano 
+Montalcino 
+Terricciola 
+Ghizzano di Peccioli 
+Cinigiano 
+Castelnuovo dell'Abbate 
+Sarteano 
+Valgiano 
+Massa Marittima 
+Montalcino 
+San Casciano Val di Pesa 
+Montalcino 
+Montespertoli 
+Montalcino 
+S. Brigida 
+Vagliagli 
+Castellina in Chianti 
+Montalcino 
+Montepulciano 
+Camucia 
+Vinci 
+Montalcino 
+Mercatale Val di Pesa 
+Morrona 
+Montalcino 
+Massa 
+Lamporecchio 
+Castagneto Carducci 
+Frassine - Monterotondo Marittimo 
+Bolgheri 
+Greve in Chianti 
+Barberino Val d'Elsa 
+Gaiole in Chianti 
+Montelupo Fiorentino 
+Monte San Savino 
+Castellina in Chianti 
+Palaia 
+Siena 
+Acquaviva di Montepulciano 
+San Gimignano 
+Pontassieve 
+Acquaviva di Montepulciano 
+Montepulciano 
+Vinci 
+Gaiole in Chianti 
+Gaiole in Chianti 
+Castellina in Chianti 
+Gaiole in Chianti 
+Gaiole in Chianti 
+Greve in Chianti 
+Campiglia Marittima 
+Barberino Val d'Elsa 
+San Gimignano 
+San Casciano dei Bagni 
+Montemerano 
+San Gimignano 
+Montalcino 
+Montalcino 
+Castellina in Chianti 
+Greve in Chianti 
+San Casciano Val di Pesa 
+Scansano 
+Montepulciano 
+Seggiano 
+Bucine 
+Sambuca Val di Pesa 
+Greve in Chianti 
+Scansano 
+Campagnatico 
+Castiglione d'Orcia 
+Grosseto 
+Castelnuovo Berardenga 
+Montespertoli 
+Fonteblanda 
+Fiesole 
+Castiglion Fibocchi 
+Tavarnelle Val di Pesa 
+Montalcino 
+Montepulciano 
+Montalcino 
+San Donato in Poggio 
+Montalcino 
+Montalcino 
+Montalcino 
+San Vincenzo 
+Montepulciano 
+San Gimignano 
+Radda in Chianti 
+Montalcino 
+San Gimignano 
+Montalcino 
+Castellina in Chianti 
+Gaiole in Chianti 
+Gaiole in Chianti 
+Montalcino 
+San Miniato 
+Terricciola 
+Gaiole in Chianti 
+Montalcino 
+Suvereto 
+Suvereto 
+Montelupo Fiorentino 
+Mercatale Valdarno 
+Poggio a Caiano 
+Albinia 
+Barberino Val d'Elsa 
+Peccioli 
+Terranuova Bracciolini 
+Scansano 
+Panzano in Chianti 
+San Gimignano 
+Panzano in Chianti 
+Castel del Piano 
+Poggibonsi 
+Castagneto Carducci 
+Castelnuovo Berardenga 
+Casale Marittimo 
+Riparbella 
+San Gimignano 
+Castellina in Chianti 
+Vinci 
+Prato 
+Massa Marittima 
+San Gimignano 
+Grosseto 
+Roselle Terme 
+Radda in Chianti 
+Gaiole in Chianti 
+San Gimignano 
+Radda in Chianti 
+Montecarlo 
+Portoferraio 
+Radda in Chianti 
+Poggibonsi 
+San Gimignano 
+Empoli 
+Panzano in Chianti 
+Castagneto Carducci 
+Rapolano Terme 
+Castellina in Chianti 
+Massa Marittima 
+Pistoia 
+S. Casciano Val di Pesa 
+Montalcino 
+Vico D'Elsa 
+Siena 
+Monte San Savino 
+Vico D'Elsa 
+Mercatale Valdarno 
+Radda in Chianti 
+Montalcino 
+Montalcino 
+Grassina 
+Montalcino 
+Serravalle P.se 
+Montalcino 
+San Gimignano 
+Rio Marina 
+Siena 
+Marcialla 
+Castagneto Carducci 
+Gaiole in Chianti 
+Montalcino 
+Panzano in Chianti 
+San Donato in Poggio 
+Montespertoli 
+Montalcino 
+Castagneto Carducci 
+San Casciano in Val di Pesa 
+Montiano 
+San Gimignano 
+Montepulciano 
+Castelnuovo Berardenga 
+Scarlino 
+Montalcino 
+Riparbella 
+Barberino Tavarnelle 
+San Casciano Val di Pesa 
+San Gimignano 
+Montalcino 
+Gaiole in Chianti 
+Impruneta 
+Montalcino 
+Montespertoli 
+Montepulciano 
+Chianciano Terme 
+Castagneto Carducci 
+Montalcino 
+Montalcino 
+San Pancrazio 
+Valiano di Montepulciano 
+Scansano 
+Marina di Grosseto 
+Campiglia Marittima 
+Ginestra Fiorentina 
+Montalcino 
+Cerreto Guidi 
+Montevarchi 
+San Gimignano 
+S. Casciano Val di Pesa 
+Montalcino 
+50020 Panzano in Chianti 
+Colle Val d'Elsa 
+Sambuca Val di Pesa 
+Montalcino 
+Suvereto 
+Prato 
+San Gimignano 
+Ribolla 
+Fauglia 
+S. Giustino Valdarno 
+Tavarnelle Val di Pesa 
+Monteriggioni 
+Gaiole in Chianti 
+Montepulciano 
+Scansano 
+Castagneto Carducci 
+San Gimignano 
+Barberino Val D'Elsa 
+Pontassieve 
+Arezzo 
+Rufina 
+Castagneto Carducci 
+Bolgheri 
+Palazzone San Casciano 
+Castellina in Chianti 
+Firenze 
+Montalcino 
+San Gimignano 
+Montescudaio 
+Montalcino 
+Castellina in Chianti 
+Panzano in Chianti 
+Montespertoli 
+Cecina 
+Scandicci 
+Montespertoli 
+San Miniato 
+Castelnuovo Berardenga 
+Pontedera 
+Montescudaio 
+Foiano della Chiana 
+Greve in Chianti 
+Montecatini Val di Cecina 
+Bolgheri 
+Gaiole in Chianti 
+Montecarlo 
+Gaiole 
+Greve in Chianti 
+Montecarlo 
+Pontassieve 
+Panzano in Chianti 
+Bagno a Ripoli 
+Monteriggioni 
+San Donato in Poggio 
+Fucecchio 
+Poggibonsi 
+Arezzo 
+Montecarlo 
+Montalcino 
+Fiano Certaldo 
+San Gennaro 
+Pontassieve 
+Magliano in Toscana 
+San Gimignano 
+Empoli 
+Montelupo Fiorentino 
+San Miniato 
+Terricciola 
+Montalcino 
+Montecarlo 
+Montalcino 
+Carmignano 
+Casciano di Murlo 
+Castagneto Carducci 
+Barberino Val d'Elsa 
+San Miniato 
+Scansano 
+San Gimignano 
+Capraia e Limite 
+Riparbella 
+Rufina 
+Montepulciano 
+Montalcino 
+Fucecchio 
+San Casciano Val di Pesa 
+San Miniato 
+Montalcino 
+Montepulciano 
+Montespertoli 
+Gaiole in chianti 
+Montespertoli 
+Montalcino 
+Pontassieve 
+Montalcino 
+Tavarnelle V.P. 
+Massa Marittima 
+Radda in Chianti 
+Montalcino 
+Castellina in Chianti 
+Montalcino 
+Montespertoli 
+Castelfranco di Sopra 
+San Gimignano 
+Lamporecchio 
+Gaiole in Chianti 
+Montespertoli 
+Tavarnelle Val di Pesa 
+Rufina 
+Firenze 
+Panzano in Chianti 
+Donoratico 
+Castellina in Chianti 
+Castiglione d'Orcia 
+Montalcino 
+Montespertoli 
+Monteriggioni 
+Siena 
+San Casciano Val di Pesa 
+Pontedera 
+Mercatale Val di Pesa 
+Castellina in Chianti 
+Gaiole in Chianti 
+Gaiole in Chianti 
+Barberino Val d'Elsa 
+San Gimignano 
+Greve in Chianti 
+Gaiole in Chianti 
+Mercatale Val di Pesa 
+Mercatale Val di Pesa 
+Lecchi in Chianti 
+Bolgheri 
+Castelnuovo Berardenga 
+Castellina in Chianti 
+San Gimignano 
+Castellina in Chianti 
+Mercatale Val di Pesa 
+Montalcino 
+Cavriglia 
+Castellina in Chianti 
+Greve in Chianti 
+Montalcino 
+Montalcino 
+Montepulciano Stazione 
+Castelnuovo Berardenga 
+San Gimignano 
+Montespertoli 
+Barberino Val d'Elsa 
+Carmignano 
+Montalcino 
+Montepulciano 
+San Piero a Sieve 
+Gaiole in chianti 
+Radda In Chianti 
+Montalcino 
+Chianciano Terme 
+Cenaia 
+Montefollonico 
+Montepulciano 
+Montespertoli 
+Sansepolcro 
+Montepulciano 
+Montepulciano 
+Gracciano di Montepulciano 
+Pitigliano 
+Montalcino 
+Scansano 
+Montalcino 
+Cenaia di Crespina 
+Massa 
+Terranuova B.Ni 
+Murlo 
+Montalcino 
+Montalcino 
+Montepulciano 
+Castelnuovo Berardenga 
+Bolgheri 
+Montalcino 
+Bolgheri 
+Castiglione della Pescaia 
+San Gimignano 
+Montalcino 
+Suvereto 
+Montecarlo 
+Castellina in Chianti 
+Rapolano Terme 
+Radda in Chianti 
+Castelnuovo Berardenga 
+Vagliagli 
+Magliano in Toscana 
+Montalcino 
+Quarrata 
+Rufina 
+Montepulciano 
+Giucano di Fosdinovo 
+Castellina Scalo 
+Impruneta 
+Castagneto Carducci 
+Terricciola 
+Camucia 
+Radda in Chianti 
+Massa Carrara 
+Castelnuovo Berardenga 
+Montenero D'Orcia 
+Greve in Chianti 
+Castel del Piano 
+Trequanda 
+Vinci 
+Montepulciano 
+Vinci 
+Fonteblanda Orbetello 
+Campo nell'Elba, Isola d'Elba 
+Castellina in Chianti 
+Firenze 
+Donoratico 
+Montalcino 
+Artimino 
+Montalcino 
+Montalcino 
+Cecina 
+Gaiole in Chianti 
+Vinci 
+Castelnuovo Berardenga 
+Portoferraio 
+San Miniato 
+Chiusi 
+Montalcino 
+Castelnuovo Berardenga 

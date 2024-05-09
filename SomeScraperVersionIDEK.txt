@@ -1,0 +1,134 @@
+package org.comparison.selenium;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptException;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.util.List;
+
+public class SAQ {
+
+    /*
+     * List<WebElement> itemList =
+     * driver.findElements(By.xpath("//div[@class='container']//h3[@class='title']")
+     * );
+     * 
+     * 
+     * for (WebElement item : itemList) {
+     * try {
+     * 
+     * item.click();
+     * 
+     * Thread.sleep(3000);
+     * 
+     * WebElement expandedDetails =
+     * driver.findElement(By.xpath("//div[@class='col-md-7 offset-md-5']//p"));
+     * 
+     * String details = expandedDetails.getText().trim();
+     * 
+     * if (!details.isEmpty()) {
+     * writer.write(details + "\n\n");
+     * }
+     * 
+     * item.click();
+     * 
+     * Thread.sleep(3000);
+     * } catch (Exception e) {
+     * e.printStackTrace();
+     * }
+     * }
+     * 
+     */
+
+    public void showHTML() {
+        ChromeOptions options = new ChromeOptions();
+        options.setHeadless(false);
+        WebDriver driver = new ChromeDriver(options);
+        driver.get(
+                "https://www.enoteca.co.jp/shop/all");
+
+        try {
+            Thread.sleep(3000);
+            // driver.findElement(By.xpath("//div[@class='hover-global-header-icon']")).click();
+            Thread.sleep(3000);
+            // driver.findElement(By.xpath("//span[@class='hover-underline mx-4 flex w-28
+            // items-center justify-between border-b py-4 last:border-0']")).click();
+            // Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        // try {
+        // Thread.sleep(10000);
+        // } catch (InterruptedException e) {
+        // e.printStackTrace();
+        // }
+
+        try (FileWriter writer = new FileWriter("Retail Shops Japan 3 - POSTCODES.txt", StandardCharsets.UTF_8)) {
+            // int totalPages = 30;
+            // for (int page = 1; page <= totalPages; page++) {
+            List<WebElement> articleContent = driver
+                    .findElements(By.xpath("//a[@class='thumbnail relative mb-3 block pt-thumbnailRatio']"));
+            System.out.println("Length: " + articleContent.size());
+
+            WebDriverWait wait = new WebDriverWait(driver, 10); // Wait up to 10 seconds for elements to be present
+
+            for (int i = 0; i < articleContent.size(); i++) {
+                try {
+                    // Re-find elements to avoid StaleElementReferenceException
+                    articleContent = driver
+                            .findElements(By.xpath("//a[@class='thumbnail relative mb-3 block pt-thumbnailRatio']"));
+                    WebElement link = articleContent.get(i);
+                    String hrefs = link.getAttribute("href");
+                    driver.get(hrefs);
+                    Thread.sleep(5000);
+                    // Wait for address element to be visible
+                    WebElement addressElement = wait.until(ExpectedConditions.visibilityOfElementLocated(
+                            By.xpath(
+                                    "//div//div[1]//div[4]//div[2]//div//div//div//div//ul//li[1]//div[2]//div[1]//pre")));
+
+                    // Scroll to the address element using JavaScript
+                    ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", addressElement);
+
+                    String address = addressElement.getText();
+                    writer.write(address + "\n");
+                    System.out.println(address);
+
+                    driver.navigate().back();
+                    Thread.sleep(9000); // Add a delay before proceeding to the next iteration
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+
+            // WebElement nextPageButton =
+            // driver.findElement(By.xpath("//a[@class='pagination-next']"));
+            // String nextPageUrl = nextPageButton.getAttribute("href");
+            // if (nextPageUrl != null && !nextPageUrl.isEmpty()) {
+            // driver.get(nextPageUrl);
+            // Thread.sleep(3000); // Wait for the next page to load
+            // } else {
+            // break; // Exit loop if there is no next page
+            // }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        driver.quit();
+    }
+
+    public static void main(String[] args) {
+        SAQ scraper = new SAQ();
+        scraper.showHTML();
+    }
+}
