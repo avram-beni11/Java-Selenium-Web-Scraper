@@ -55,7 +55,7 @@ public class SAQ {
         options.setHeadless(false);
         WebDriver driver = new ChromeDriver(options);
         driver.get(
-                "https://www.mudgeewine.com.au/wineries-and-cellar-doors/");
+                "https://www.margaretriver.com/things-to-do/eat-drink/wineries/?#section-8");
 
         try {
             // Thread.sleep(11000);
@@ -75,7 +75,7 @@ public class SAQ {
         // e.printStackTrace();
         // }
 
-        try (FileWriter writer = new FileWriter("Mudgee Wine - Address.txt", StandardCharsets.UTF_8)) {
+        try (FileWriter writer = new FileWriter("Marg River - NAMES.txt", StandardCharsets.UTF_8)) {
             // int totalPages = 108;
             // for (int page = 1; page <= totalPages; page++) {
             // List<WebElement> articleContent = driver
@@ -151,27 +151,25 @@ public class SAQ {
             // // }
             // // }
             List<WebElement> itemList = driver.findElements(By.xpath(
-                    "//h5[@class='eltdf-tab-title']"));
+                    "//div[@class='xs:grid xs:grid-cols-2 lg:grid-cols-3 xl:block']"));
 
             for (WebElement item : itemList) {
                 try {
 
-                    item.click();
-
+                    // item.click();
                     Thread.sleep(3000);
-
-                    WebElement expandedDetails = driver
+                    WebElement expandedDetails = item
                             .findElement(By.xpath(
-                                    "//div[@class='wpb_text_column wpb_content_element']//div[@class='wpb_wrapper']//p//a[@rel='noopener noreferrer']"));
+                                    "//div[@class='relative flex-grow']//div[@class='xs:grid xs:grid-cols-2 lg:grid-cols-3 xl:block']//section[@class='p-4 pb-0 hover:bg-blue-100 rounded-lg xl:rounded-none']//div[@class='flex flex-col xl:flex-row pb-4 border-b md:border-none xl:border-b border-gray-300']//div[@class='w-full xl:w-2/3']//div[@class='p-4']//h3[@class='mb-2 font-medium text-md leading-5 tracking-wide']"));
 
                     // String details = expandedDetails.getText().trim();
                     String address = expandedDetails.getText();
-                    // if (!details.isEmpty()) {
-                    writer.write(address + "\n");
-                    System.out.println(address);
-                    // }
+                    if (!address.isEmpty()) {
+                        writer.write(address + "\n");
+                        System.out.println(address);
+                    }
 
-                    item.click();
+                    // item.click();
 
                     Thread.sleep(3000);
                 } catch (Exception e) {
